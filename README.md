@@ -8,14 +8,15 @@
 
 ## 🚀 프로젝트
 
-
 - **Coating CAM**
-    > 수동으로 툴 헤드의 위치를 확인하며 표에 좌표를 적어 코팅 경로를 작성하던 방식을 개선하기 위해, 캔버스 기반으로 코팅 경로를 쉽게 생성하고 G-Code를 추출할 수 있도록 개발한 데스크탑 앱입니다.
+    > 캔버스 기반으로 코팅 경로를 쉽게 생성하고 G-Code를 추출할 수 있도록 개발한 데스크탑 앱입니다. 툴 헤드의 위치를 확인하며 표에 좌표를 적어 코팅 경로를 작성하던 방식을 개선하기 위해 개발했습니다.
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jewon-oh&repo=coating-cam&theme=dark)](https://github.com/jewon-oh/coating-cam)
+  
 - **Do Eat Fit**
     > 인바디 측정 결과를 바탕으로 영양소별 권장 하루 섭취량 계산기, 계산 기록 조회와 간단한 운동 검색 기능을 제공하는 서비스입니다.
-  - [Site Link](https://doeatfit.org)
+
+    [Site Link](https://doeatfit.org)
 
 - 해외 주식 실적 발표일 알림 서비스
     > 미국 증시 상장 기업의 실적 발표일을 조회하고, 사용자에게 알림을 보내주는 서비스입니다.
@@ -25,7 +26,6 @@
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jewon-oh&repo=er-alarm-web&theme=dark)](https://github.com/jewon-oh/er-alarm-web)
 
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jewon-oh&repo=er-alarm-python&theme=dark)](https://github.com/jewon-oh/er-alarm-python)
-
 
 - 중고 의류 거래 서비스
     > 중고 의류를 등록하고, 경매 형식으로 거래할 수 있는 서비스입니다.
@@ -50,7 +50,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=orange)
-
 
 ## 📊 통계
 
