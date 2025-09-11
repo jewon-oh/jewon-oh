@@ -1,7 +1,7 @@
 # Jewon Oh
 
 - 🌱 현재 배우고 있는 것: Next.js, Electron, TypeScript
-- 👯 협업하고 싶은 분야: 웹 앱
+- 👯 협업하고 싶은 분야: 웹 서비스
 
 ## 🚀 프로젝트
 
@@ -28,10 +28,8 @@
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=orange)
 
 ## 📊 통계
 
