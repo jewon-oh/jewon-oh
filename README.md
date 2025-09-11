@@ -2,8 +2,7 @@
 
 - 🌱 현재 배우고 있는 것: Next.js, Electron, TypeScript
 - 👯 협업하고 싶은 분야: 웹 앱
-- 🛠️ 취미: DIY
-- 📫 연락 방법: 96jwjw@naver.com
+- 🛠️ 취미: DIY, 홈서버 관리
 
 ## 🚀 프로젝트
 
