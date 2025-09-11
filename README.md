@@ -16,18 +16,6 @@
     > 인바디 측정 결과를 바탕으로 영양소별 권장 하루 섭취량 계산기, 계산 기록 조회와 간단한 운동 검색 기능을 제공하는 서비스입니다.
   - [🔗 Site Link](https://doeatfit.org)
 
-- 해외 주식 실적 발표일 알림 서비스
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jewon-oh&repo=er-alarm-backend&show_icons=true&theme=github_dark_dimmed)](https://github.com/jewon-oh/er-alarm-backend)
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jewon-oh&repo=er-alarm-web&show_icons=true&theme=github_dark_dimmed)](https://github.com/jewon-oh/er-alarm-web)
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jewon-oh&repo=er-alarm-python&show_icons=true&theme=github_dark_dimmed)](https://github.com/jewon-oh/er-alarm-python)
-
-- 중고 의류 거래 서비스
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jewon-oh&repo=JungoWashing-Back-End&show_icons=true&theme=github_dark_dimmed)](https://github.com/jewon-oh/JungoWashing-Back-End)
-
 ## 🔧 기술 스택
 
 ### 💻 언어/프레임 워크/라이브러리
