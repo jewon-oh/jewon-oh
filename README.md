@@ -1,13 +1,8 @@
 # Jewon Oh
 
-- 🌱 현재 배우고 있는 것: Next.js, Electron, TypeScript
-- 👯 협업하고 싶은 분야: 웹 서비스
+- 🌱 현재 배우고 있는 것: Next.js, Electron, TypeScript, Java, Spring Boot
 
 ## 🚀 프로젝트
-
-- **Coating CAM**
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jewon-oh&repo=coating-cam&show_icons=true&theme=github_dark_dimmed)](https://github.com/jewon-oh/coating-cam)
 
 - **Do Eat Fit**
 
