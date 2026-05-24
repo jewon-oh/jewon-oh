@@ -2,8 +2,8 @@
 
 > 홈랩을 직접 구축·운영하며 인프라 / DevOps 엔지니어를 지향합니다.
 
-- 🔧 [homelab-infra](https://github.com/jewon-oh/homelab-infra) — 온프레미스 인프라 (IaC + GitOps)
-- 📝 [blog.fresh96jwjw.org](https://blog.fresh96jwjw.org/) — 기술 블로그
+- [homelab-infra](https://github.com/jewon-oh/homelab-infra) — 인프라
+- [blog.fresh96jwjw.org](https://blog.fresh96jwjw.org/) — 블로그
 
 ### Tech
 
@@ -23,7 +23,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
