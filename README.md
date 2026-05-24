@@ -1,35 +1,29 @@
 # Jewon Oh
 
-- 🌱 현재 배우고 있는 것: Next.js, Electron, TypeScript, Java, Spring Boot
+> 홈랩을 직접 구축·운영하며 인프라 / DevOps 엔지니어를 지향합니다.
 
-## 🚀 프로젝트
+- 🔧 [homelab-infra](https://github.com/jewon-oh/homelab-infra) — 온프레미스 인프라 (IaC + GitOps)
+- 📝 [blog.fresh96jwjw.org](https://blog.fresh96jwjw.org/) — 기술 블로그
 
-- **Do Eat Fit**
+### Tech
 
-    > 인바디 측정 결과를 바탕으로 영양소별 권장 하루 섭취량 계산기, 계산 기록 조회와 간단한 운동 검색 기능을 제공하는 서비스입니다.
-  - [🔗 Site Link](https://doeatfit.org)
+#### Container / Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔧 기술 스택
+#### Infra / Virtualization
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💻 언어/프레임 워크/라이브러리
+#### IaC / Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+#### Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🛠️ 툴/협업
-
-![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-## 📊 통계
-
-[![jewon-oh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewon-oh&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewon-oh&layout=compact&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ojw1996)](https://solved.ac/ojw1996/)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
