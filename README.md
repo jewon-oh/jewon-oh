@@ -1,6 +1,6 @@
 # Jewon Oh
 
-> 홈랩을 직접 구축·운영합니다.
+> I love Homelab.
 
 - [homelab-infra](https://github.com/jewon-oh/homelab-infra) — 인프라
 - [blog.fresh96jwjw.org](https://blog.fresh96jwjw.org/) — 블로그
